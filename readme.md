@@ -1,7 +1,6 @@
-# [Music Watt](https://amitzaman.com)
+# [Music Watt](http://musicwatts.x10host.com/)
 ### Music Watt - A Custom Theme Created in Wordpress
-
-[Amit Zaman](https://amitzaman.com)
+##### Please click [Music Watt](http://musicwatts.x10host.com/) link to view live deployment[Amit Zaman](https://amitzaman.com)
 
 <p align="center">
   <img src="musicwatts-1.png" width="850" title="hover text">
